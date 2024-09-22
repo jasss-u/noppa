@@ -1,0 +1,13 @@
+#container div {
+    background-color: black;
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+
+}
+
+div {
+    text-align: center;
+    margin: 2em ;
+}
